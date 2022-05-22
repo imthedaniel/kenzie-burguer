@@ -32,7 +32,7 @@ Kenzie Burguer é um e-commerce desenvolvido para o ramo de delivery, o cliente 
 
 ## 🚀 Tecnologias
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+Esse projeto foi desenvolvido com as seguintes tecnologias/bibliotecas:
 
 <table border="0">
  <tr>
