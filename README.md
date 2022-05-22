@@ -42,6 +42,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias/bibliotecas:
 <td> React.JS</td>
 <td> Styled Components</td>
 <td> React Toastify</td>
+<td> API Rest</td>
  </tr>
 </table>
 
